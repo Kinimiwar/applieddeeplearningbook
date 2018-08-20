@@ -4,4 +4,4 @@ Welcome to the github repository for the book "Applied Deep Learning - A Case-Ba
 
 [BOOK COMPANION WEBSITE](https://www.applieddeeplearningbook.com/)
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Book Image](https://github.com/michelucci/applieddeeplearningbook/blob/master/images/Michelucci_smallsize_300.jpg "Book Image")
